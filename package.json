@@ -1,0 +1,24 @@
+{
+  "name": "operahouse",
+  "version": "0.0.1",
+  "description": "Orchestrating Multi-Framework State Management for the front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RideShark/operahouse.git"
+  },
+  "keywords": [
+    "state-management",
+    "rpc",
+    "front-end"
+  ],
+  "author": "Bryan Rayner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RideShark/operahouse/issues"
+  },
+  "homepage": "https://github.com/RideShark/operahouse#readme"
+}
